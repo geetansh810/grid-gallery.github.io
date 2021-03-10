@@ -1,0 +1,29 @@
+.grid-container {
+}
+.flex-box {
+  display: flex;
+  flex-direction:column;
+}
+.flex {
+  display: flex;
+
+}
+.grid-item-1 {
+  height: 100%;
+  width: 15%;
+}
+.grid-item-2 {
+  height: 100%;
+  width: 20%;
+}
+.grid-item-3 {
+  height: 100%;
+  width: 15%;
+}
+
+.grid{
+    padding: 0 0;
+    margin: 0 0;
+    display: flex;
+    justify-content: space-evenly;
+}
